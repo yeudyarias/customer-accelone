@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Juan",
+    "lastName": "Arias",
+    "email": "ygarialfa@gmail.com",
+    "age": 37
+  },
+  {
+    "id": 2,
+    "name": "Yeudy",
+    "lastName": "Arias",
+    "email": "ygarialfa@gmail.com",
+    "age": 37
+  },
+  {
+    "id": 3,
+    "name": "Jesus",
+    "lastName": "Arias",
+    "email": "ygarialfa@gmail.com",
+    "age": 37
+  }
+]
